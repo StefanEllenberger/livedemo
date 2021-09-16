@@ -1,0 +1,18 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.container {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 8rem;
+  color: white;
+  z-index: 9;
+}
